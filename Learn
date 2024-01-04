@@ -1,0 +1,23 @@
+What I Learner from this Project.
+
+1) write core css to make animations for buttons, 
+  -> filters (blur)
+  -> transform translate rotate
+  -> @keyframes for making animations
+  -> using animation properties on div like name, duration, direction, timing function, iteration count
+  -> line height
+  -> letter spacing
+  -> made utmost use of vw and vh to make it dynamic
+2) concept of position attribute
+  -> relative
+  -> absolute
+  -> fixed
+3) Revisited the concepts of Core js
+  -> document.querySelector
+  -> var
+  -> .foreach
+  -> user def functions
+3) installed locomotive js
+  -> for smooth scrolling
+4) Used Slider JS
+  -> to create a slider animation on page3
